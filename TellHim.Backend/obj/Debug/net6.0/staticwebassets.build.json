@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LnL9WDsEetSvyT1D5nWkw0G/XxPj2MPrAYm95uO0YsU=",
+  "Source": "TellHim.Backend",
+  "BasePath": "_content/TellHim.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TellHim.Backend\\wwwroot",
+      "Source": "TellHim.Backend",
+      "ContentRoot": "D:\\Crycixion\\WpfProject\\TellHim\\TellHim.Backend\\wwwroot\\",
+      "BasePath": "_content/TellHim.Backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Crycixion\\WpfProject\\TellHim\\TellHim.Backend\\wwwroot\\index.html",
+      "SourceId": "TellHim.Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Crycixion\\WpfProject\\TellHim\\TellHim.Backend\\wwwroot\\",
+      "BasePath": "_content/TellHim.Backend",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

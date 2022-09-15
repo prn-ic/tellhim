@@ -1,0 +1,12 @@
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\bin\Debug\net6.0\TellHim.Domain.deps.json
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\bin\Debug\net6.0\TellHim.Domain.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\bin\Debug\net6.0\TellHim.Domain.pdb
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.csproj.AssemblyReference.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.AssemblyInfoInputs.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.AssemblyInfo.cs
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.csproj.CoreCompileInputs.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\refint\TellHim.Domain.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\TellHim.Domain.pdb
+D:\Crycixion\WpfProject\TellHim\TellHim.Domain\obj\Debug\net6.0\ref\TellHim.Domain.dll

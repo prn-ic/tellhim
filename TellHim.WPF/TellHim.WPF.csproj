@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\Icons\favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Icons\close_active.png" />
+    <None Remove="Resources\Icons\close_inactive.png" />
+    <None Remove="Resources\Icons\minimize_active.png" />
+    <None Remove="Resources\Icons\minimize_inactive.png" />
+    <None Remove="Resources\Icons\normal_active.png" />
+    <None Remove="Resources\Icons\normal_inactive.png" />
+    <None Remove="Resources\Images\logo.png" />
+    <None Remove="ViewModels\vc1w531z.u1k~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Icons\favicon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Stickers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="6.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Client.Core" Version="6.0.9" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TellHim.Domain\TellHim.Domain.csproj" />
+    <ProjectReference Include="..\TellHim.EntityFramework\TellHim.EntityFramework.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Icons\close_active.png" />
+    <Resource Include="Resources\Icons\close_inactive.png" />
+    <Resource Include="Resources\Icons\minimize_active.png" />
+    <Resource Include="Resources\Icons\minimize_inactive.png" />
+    <Resource Include="Resources\Icons\normal_active.png" />
+    <Resource Include="Resources\Icons\normal_inactive.png" />
+    <Resource Include="Resources\Images\logo.png" />
+  </ItemGroup>
+
+</Project>

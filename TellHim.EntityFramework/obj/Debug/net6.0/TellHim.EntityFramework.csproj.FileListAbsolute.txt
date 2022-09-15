@@ -1,0 +1,17 @@
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\bin\Debug\net6.0\TellHim.EntityFramework.deps.json
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\bin\Debug\net6.0\TellHim.EntityFramework.runtimeconfig.json
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\bin\Debug\net6.0\TellHim.EntityFramework.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\bin\Debug\net6.0\TellHim.EntityFramework.pdb
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\bin\Debug\net6.0\TellHim.Domain.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\bin\Debug\net6.0\TellHim.Domain.pdb
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.csproj.AssemblyReference.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.AssemblyInfoInputs.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.AssemblyInfo.cs
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.csproj.CopyComplete
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\refint\TellHim.EntityFramework.dll
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.pdb
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\TellHim.EntityFramework.genruntimeconfig.cache
+D:\Crycixion\WpfProject\TellHim\TellHim.EntityFramework\obj\Debug\net6.0\ref\TellHim.EntityFramework.dll
