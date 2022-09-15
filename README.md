@@ -16,9 +16,9 @@ _Простое приложение-чат, написанный на C#. Из 
 - И далее вводим команды _dotnet-ef migrations add Initial_ и _dotnet-ef database update_
 На этом вся настройка закончена
 ### Пример работы программы
-- Начальное окно без каких-либо данных:
+- Начальное окно без каких-либо данных: <br />
 ![alt text](https://sun9-79.userapi.com/impg/GCKpRTOrYlJS5l8lDLJH46gLwMG7_yjoEH5r8w/q3HeaLhpKbs.jpg?size=350x500&quality=96&sign=b6ae521b80bde605bf88460f619d0ddf&type=album)
-- Непосредственно работа программы
+- Непосредственно работа программы: <br />
 ![hippo](https://psv4.userapi.com/c235131/u299329049/docs/d50/d40de0f6078b/devenv_HbtRPqElle.gif?extra=wtoAFQqF98MnME18Ctrlrm6pN-cDtu-HVZJUjby6BicwHecCvmS5fOOrilxPumyhFwMtCErDXaL8CF-cBogaZ9Z4CtSudkBrWM9OYacHJoS0C3YR2xg3EhfyyfJ-5566dj261bzKQlSlJN0_CFXvEcPPPw)
 
 ## Авторы
